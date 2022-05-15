@@ -40,4 +40,5 @@ You can check main file for details
 Its also supports comments (# Default check header file to change it) line in config file you can leave comment with it above 
 
 > #Its comment line
+> 
 > FontSize=20
