@@ -3,7 +3,7 @@
 How to use
 -
 
-Create an ınstance with filepath argument
+Create an instance with filepath argument
 
  
 
